@@ -1,0 +1,4 @@
+.DS_Store
+*.swp
+sync_file
+docker_history/*.txt
